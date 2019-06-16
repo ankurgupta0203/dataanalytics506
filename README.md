@@ -14,4 +14,4 @@ This file contains the code snippets for most used functions that can come handy
     REGRESSION
     
 ## 2. Final Project
-This needs to be worked on further.
+This contains the RMD and PDF files for the Final EDA Project
